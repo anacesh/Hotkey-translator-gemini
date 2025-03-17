@@ -1,0 +1,7 @@
+keyboard
+pyperclip
+requests
+langdetect
+google-generativeai
+pystray
+pillow
